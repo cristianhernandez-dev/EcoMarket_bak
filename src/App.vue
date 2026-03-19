@@ -5,10 +5,7 @@
 
     <main class="main-content" id="inicio">
 
-      <h1>EcoMarket</h1>
-      <p class="subtitle">
-        Tienda online de productos ecológicos y sostenibles
-      </p>
+      <h1>Tienda Online</h1>
 
       <CardContainer>
         <h2>Productos destacados</h2>
