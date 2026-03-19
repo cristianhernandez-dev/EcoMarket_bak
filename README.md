@@ -55,7 +55,8 @@ EcoMarket
 │   │   └── images
 │   │        ├── cepillo-bambu.jpg
 │   │        ├── botella-reutilizable.jpg
-│   │        └── bolsa-ecologica.jpg
+│   │        ├── bolsa-ecologica.jpg
+│   │        └── logo-ecomarket.png
 │   │
 │   └── components
 │       ├── Navbar.vue
